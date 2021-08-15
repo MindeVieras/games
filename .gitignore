@@ -1,0 +1,9 @@
+/dist
+.env
+.nyc_output
+
+node_modules
+
+.DS_Store
+*.map
+*.log
