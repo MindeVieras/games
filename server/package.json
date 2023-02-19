@@ -1,0 +1,14 @@
+{
+  "name": "games-server",
+  "version": "1.0.0",
+  "description": "Games collection server.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Minde Vieras",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
